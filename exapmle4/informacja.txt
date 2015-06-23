@@ -1,0 +1,1 @@
+Wiem ¿e niejest to w 100% zgodne z MVC ze wzglêdu na wygl¹d kontrolera.
